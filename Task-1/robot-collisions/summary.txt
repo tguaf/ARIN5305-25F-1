@@ -1,1 +1,1 @@
-Your summary for program in ../../resource/correctJavaPrograms/robot-collisions/Solution.java
+The code simulates robot collisions, with right-moving robots stored in a stack. Left-moving robots collide with stack robots until health depletes. Surviving robots' healths are returned.
